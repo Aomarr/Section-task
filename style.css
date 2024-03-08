@@ -55,6 +55,7 @@ button {
     border-radius: 60px;
     line-height: 1.6;
     margin-top: 20px;
+    cursor: pointer;
 }
 @media screen and (max-width: 425px) {
     .part_2, p {
